@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeeloBee
 - 👀 I’m interested in artistic activities mainly sandart
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on a new project
+- 🌱 I’m currently learning how to code.
+- 💞️ I’m looking to learn the tools to be an effective coder.
 - 📫 How to reach me is simply by sending an email to boineelolk@gmail.com. I will reply as soon as I can.
 
 <!---
